@@ -2,3 +2,4 @@ This is a file that will be covered with some version control software
 The file has been made by JB on Feb 18th
 
 Some text has been added
+Yet more text exists
